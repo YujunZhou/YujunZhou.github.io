@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,8 +10,6 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-# Selected Publications
 
 *[Towards understanding the robustness against evasion attack on categorical data](https://openreview.net/pdf?id=BmJV7kyAmg)
 
